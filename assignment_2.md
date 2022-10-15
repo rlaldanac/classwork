@@ -5,13 +5,13 @@
 
 
 ## Map 1:
-
+![alt text](https://github.com/rlaldanac/classwork/blob/main/assignment2_map1.jpg "Map 1")
 
 ## Map 2:
-
+![alt text](https://github.com/rlaldanac/classwork/blob/main/assignment2_map2.jpg "Map 2")
 
 ## Map 3:
-
+![alt text](https://github.com/rlaldanac/classwork/blob/main/assignment2_map3.jpg "Map 3")
 
 ## Insights:
 #### Which areas of Manhattan had the largest number of 311 noise complaints? What are some reasons you can think of for these trends?
