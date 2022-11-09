@@ -17,7 +17,7 @@
 ![alt text](https://github.com/rlaldanac/classwork/blob/main/singapore_diff.jpg "Map 4")
 
 ## Number of Restaurants in Singapore:
-![alt text]( "Map 5")
+![alt text](https://github.com/rlaldanac/classwork/blob/main/singapore_restaurants.png "Map 5")
 
 ###### I couldn't export the GEE outputs at all, I waited nearly 4 hours, and they never exported. So I just downloaded a shapefile of Singapore and used it to gather data from OSM. I think it would be very interesting to see where there would be restaurants and no lights. It was clear that there are areas with lights but no restaurants, and after a look at Google Maps it turned out that those areas are airports and water treatment plants. 
 
