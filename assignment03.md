@@ -8,13 +8,18 @@
 ![alt text](https://github.com/rlaldanac/classwork/blob/main/singapore_2013.jpg "Map 1")
 
 ## NTL 2019:
-![alt text]https://github.com/rlaldanac/classwork/blob/main/singapore_2019.jpg "Map 2")
+![alt text](https://github.com/rlaldanac/classwork/blob/main/singapore_2019.jpg "Map 2")
 
-##Share of 2019's NTL in 2013 NTL:
+## Share of 2019's NTL in 2013 NTL:
 ![alt text](https://github.com/rlaldanac/classwork/blob/main/singapore_2013_2019.jpg "Map 3")
 
-##Difference between 2019's NTL and 2013's NTL:
+## Difference between 2019's NTL and 2013's NTL:
 ![alt text](https://github.com/rlaldanac/classwork/blob/main/singapore_diff.jpg "Map 4")
+
+## Number of Restaurants in Singapore:
+![alt text]( "Map 5")
+
+###### I couldn't export the GEE outputs at all, I waited nearly 4 hours, and they never exported. So I just downloaded a shapefile of Singapore and used it to gather data from OSM. I think it would be very interesting to see where there would be restaurants and no lights. It was clear that there are areas with lights but no restaurants, and after a look at Google Maps it turned out that those areas are airports and water treatment plants. 
 
 ## Insights:
 #### Compare the outputs for 2013 and 2019. What are some visible differences between these two time periods?
@@ -27,4 +32,4 @@
 ###### Hotels, bars, clubs, and even an airport. Though the airport was there in 2013, hence the nighttime light levels being roughly the same in 2013 and 2019.
             
 #### Which neighborhood/area of Singapore would you recommend the retail store should locate in? Explain why?
-###### I would definitely reccomend anywhere along the southern coastline, as that is where the most industry seems to be. There may be a lot of competetion, but the light levels suggest a lot of foot traffic which can easily mean more customers.
+###### I would definitely reccomend anywhere along the southern coastline, in specific along the center of Singapore, as that is where the most industry seems to be. There may be a lot of competetion, but the light levels suggest a lot of foot traffic which can easily mean more customers.
